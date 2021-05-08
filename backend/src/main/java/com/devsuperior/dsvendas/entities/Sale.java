@@ -68,7 +68,7 @@ public class Sale {
 		return amount;
 	}
 
-	public void setAmounte(Double amounte) {
+	public void setAmounte(Double amount) {
 		this.amount = amount;
 	}
 
